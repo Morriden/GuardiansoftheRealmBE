@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mountains",
+        "Defense": "2",
+        "production": "2",
+        "food": "0"
+    },
+    {
+        "name": "Hills",
+        "Defense": "2",
+        "production": "1",
+        "food": "1"
+    },
+    {
+        "name": "Woods",
+        "Defense": "1",
+        "production": "2",
+        "food": "1"
+    },
+    {
+        "name": "Fields",
+        "Defense": "0",
+        "production": "1",
+        "food": "3"
+    },
+    {
+        "name": "River",
+        "Defense": "1",
+        "production": "1",
+        "food": "2"
+    },
+    {
+        "name": "Coast",
+        "Defense": "0",
+        "production": "2",
+        "food": "2"
+    }
+]

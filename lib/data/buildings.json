@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Alchemist's Lab",
+        "roompoint": "1",
+        "goldcost": "2500",
+        "upkeep": "50",
+        "construction": "2",
+        "description": "Cuts the time in half of creating wares in a Alchemists Lab. This also has the chance to save half materials provided (you still need full materials). In addition it is always considered to be stocked with a alchemist Kit, Herbalism Kit, and you gain advantage to use those kits if you are proficient with them in this location.",
+        "defense": "0",
+        "population": "0",
+        "production": "0",
+        "food": "1"
+    },
+    {
+        "name": "Animal Pen",
+        "roompoint": "1",
+        "goldcost": "2500",
+        "upkeep": "50",
+        "construction": "2",
+        "description": "This room allows creatures to be held securely and safely. The creature may not be humanoid. This room holds seven small, 5 medium, or 2 large.",
+        "defense": "0",
+        "population": "0",
+        "production": "0",
+        "food": "0"
+    },
+    {
+        "name": "Armory",
+        "roompoint": "1",
+        "goldcost": "2500",
+        "upkeep": "0",
+        "construction": "2",
+        "description": "Stores your weaponry and armor for your garrison and any weapons or armor you wish to store here instead of on your person. Allows up to 100 Militia to be turned into guards for the battle (if these units are taken from a location this location no longer functions). Allows purchase of Light Infantry and Militia.",
+        "defense": "1",
+        "population": "0",
+        "production": "0",
+        "food": "0"
+    }
+]

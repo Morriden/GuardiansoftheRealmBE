@@ -1,0 +1,39 @@
+{
+  "name": "guardiansoftherealmbe",
+  "version": "1.0.0",
+  "description": "Back end for Guardians of the Realm",
+  "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:watch": "npm run test -- --watch",
+    "start": "node server.js",
+    "start:watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morriden/GuardiansoftheRealmBE.git"
+  },
+  "author": "Erik Ford",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "eslint": "^7.7.0",
+    "jest": "^26.4.0",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Morriden/GuardiansoftheRealmBE/issues"
+  },
+  "homepage": "https://github.com/Morriden/GuardiansoftheRealmBE#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongodb-memory-server": "^6.9.2",
+    "mongoose": "^5.11.5"
+  }
+}

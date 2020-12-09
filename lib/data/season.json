@@ -1,0 +1,30 @@
+[
+    {
+        "currentseason": "Spring",
+        "food": "1",
+        "production": "1",
+        "population": "1",
+        "defense": "0"
+    },
+    {
+        "currentseason": "Summer",
+        "food": "0",
+        "production": "1",
+        "population": "1",
+        "defense": "0"
+    },
+    {
+        "currentseason": "Fall",
+        "food": "2",
+        "production": "0",
+        "population": "1",
+        "defense": "0"
+    },
+    {
+        "currentseason": "Winter",
+        "food": "-2",
+        "production": "-1",
+        "population": "0",
+        "defense": "-1"
+    }
+]
